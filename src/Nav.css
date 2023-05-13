@@ -1,0 +1,30 @@
+.nav{
+    position: fixed;
+    top: 0;
+    display: flex;
+    padding: 20px;
+    width: 100%;
+    justify-content: space-between;
+
+}
+.nav_logo{
+    position:fixed;
+    width: 80px;
+    object-fit: contain;
+    left: 0px;
+
+
+}
+.nav_profile{
+    position: fixed;
+    width: 30px;
+    object-fit: contain;
+    right: 20px;
+}
+p{
+    display: flex;
+    gap: 1rem;
+    font-size: x-large;
+    font-weight: bolder;
+    color: white;
+}
